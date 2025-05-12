@@ -24,8 +24,7 @@ JavaScript Library: ใช้ **Swiper** และ **Framer-Motion** เพื�
 
 <div>
     <img src="/Travel-TH/public/pictures/Screenshot from 2025-05-06 11-11-35.png" />
-    <img src="/Travel-TH/public/pictures/Screenshot from 2025-05-06 11-11-41.png" />
-    <img src="/Travel-TH/public/pictures/Screenshot from 2025-05-06 11-11-48.png" />
+    
 </div>
 
 ---
