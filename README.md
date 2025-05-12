@@ -55,5 +55,5 @@ bun run dev
 เผยแพร่ภายใต้ใบอนุญาต MIT
 
 ## 👨‍💻 ผู้จัดทำ
+[FamManatchai] https://github.com/FamManatchai
 
-[NekoSakuraLucia](https://github.com/NekoSakuraLucia)
