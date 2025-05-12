@@ -35,7 +35,7 @@ JavaScript Library: ใช้ **Swiper** และ **Framer-Motion** เพื�
 1. fork และ clone ก่อน
 
 ```bash
-https://github.com/NekoSakuraLucia/travel-landing-page.git
+https://github.com/FamManatchai/Travel-TH.git
 ```
 
 2. ติดตั้ง dependencies
